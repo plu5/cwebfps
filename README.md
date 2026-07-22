@@ -28,6 +28,7 @@ git clone --recurse-submodules --shallow-submodules https://github.com/plu5/cweb
    ```
 3. Build the game:
    ```sh
+   cd ../..
    make -C cwebfps
    ```
 4. Host the game:
