@@ -1,5 +1,9 @@
 # cwebfps
-Currently it's just a green screen
+Currently it's just
+- an environment (based on [3d camera first person example](https://www.raylib.com/examples/core/loader.html?name=core_3d_camera_first_person))
+- capture mouse
+- fullscreen
+- free camera toggle (f4)
 
 Basic FPS game attempt for the web with [raylib](https://github.com/raysan5/raylib)
 
